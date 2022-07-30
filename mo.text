@@ -1,0 +1,29 @@
+<!-- // <Navbar bg="dark" expand="lg">
+    //   <Container>
+    //     <Navbar.Brand href="#home">
+    //       <img src={logo} title="logo" alt="" />
+    //     </Navbar.Brand>
+    //     <Navbar.Toggle aria-controls="basic-navbar-nav" />
+    //     <Navbar.Collapse id="basic-navbar-nav">
+    //       <Nav className="me-auto"></Nav>
+    //       <Nav>
+    //         <Nav.Link href="#home" id="menu">
+    //           Home
+    //         </Nav.Link>
+    //         <Nav.Link href="#About" id="menu">
+    //           About us
+    //         </Nav.Link>
+    //         <Nav.Link href="#Eeplore" id="menu">
+    //           Eeplore foood
+    //         </Nav.Link>
+    //         <Nav.Link href="#Review" id="menu">
+    //           Review
+    //         </Nav.Link>
+    //         <Nav.Link href="#Faq" id="menu">
+    //           Faq
+    //         </Nav.Link>
+    //         <Nav.Link id="lastnav">07709990958</Nav.Link>
+    //       </Nav>
+    //     </Navbar.Collapse>
+    //   </Container>
+    // </Navbar> -->

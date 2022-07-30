@@ -1,0 +1,90 @@
+.numbers {
+  background-color: #ffd300;
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+  overflow: hidden;
+  color: black;
+  padding: 10px;
+}
+
+.numbers .row {
+  margin: 10px 0px;
+}
+
+.numbers h2 {
+  font-size: 35px;
+}
+
+.numbers h6 {
+  text-transform: uppercases;
+  letter-spacing: 1px;
+}
+
+/* css to the newfood section */
+
+.newfood {
+  padding: 25px 0px;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  margin-top: 50px;
+}
+
+.newfood img {
+  max-width: 100%;
+  height: auto;
+}
+
+.newfood h2 {
+  margin: 30px 0px;
+  line-height: 35px;
+  width: 80%;
+}
+
+.newfood p {
+  width: 80%;
+  line-height: 28px;
+  font-size: 20px;
+  color: rgb(255, 255, 255) !important;
+  margin-top: 15px;
+}
+
+.newfood button {
+  width: 120px;
+  height: 40px;
+  background-color: #ffd300;
+  border: 1px solid #ffd300;
+  text-align: center;
+  transition: 0.2s ease;
+  margin-top: 20px;
+}
+
+.newfood button:hover {
+  border: 1px solid #ffd300;
+  background-color: rgb(0, 0, 0);
+}
+
+.newfood button a {
+  display: block;
+  text-decoration: none !important;
+  color: black;
+  font-size: 18px;
+}
+
+.newfood button a:hover {
+  color: #ffd300 !important;
+}
+
+.namepage {
+  text-align: center;
+  font-size: 2.5em;
+  padding: 10px;
+  margin-bottom: 25px;
+  border: #ffd300 solid 1px;
+}
+
+br {
+  color: red !important;
+}
